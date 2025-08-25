@@ -1,0 +1,11 @@
+path: data/leaf_images
+
+train: data/leaf_images/train
+val: data/leaf_images/val
+
+names:
+  - healthy
+  - cassava_bacterial_blight
+  - cassava_brown_streak
+  - cassava_mosaic
+  - nutrient_deficiency

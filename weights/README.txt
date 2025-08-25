@@ -1,0 +1,1 @@
+Place your trained weights here: detect_best.pt and cls_best.pt

@@ -1,0 +1,9 @@
+# YOLO dataset config (detection)
+path: data/field_images
+
+train: data/field_images/train/images
+val: data/field_images/val/images
+
+# Start with single 'leaf' class; later add 'lesion' etc.
+names:
+  - leaf
